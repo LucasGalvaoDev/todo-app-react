@@ -1,6 +1,6 @@
 # TODO-APP
 <div align="center">
-  <img width=200 height=300 src="https://github.com/user-attachments/assets/1ed71c62-970b-45a0-bb98-82a9f9936e7b" />
+  <img width=500 height=300 src="https://github.com/user-attachments/assets/1ed71c62-970b-45a0-bb98-82a9f9936e7b" />
 </div>
 
 ##
